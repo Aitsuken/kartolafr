@@ -1,0 +1,38 @@
+.navbar__main {
+    border-bottom: 1px solid #E7E8EC;
+    display: flex;
+    padding: 10px 10px 10px 10px; 
+}
+
+.navbar__leftbar {
+    display: flex;
+
+}
+
+ .navbar__logo {
+} 
+.navbar__midbar{
+    /* display: flex; */
+    margin-left: 60px;
+}
+.navbar__search {
+    height: 35px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #F0F2F5;
+    border: 0px;
+    font-size: 18px;
+    text-indent: 10px;
+}
+.neemu {
+    margin-left: -10px;
+    font-size: 30px;
+    width: 150px;
+
+    margin-left: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* input{
+    text-indent: 10px;
+} */
